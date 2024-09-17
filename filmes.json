@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "imagem": "./images/ep4.png",
+    "nome": "Uma nova esperança",
+    "numero": 4,
+    "sinopse": "Estreado em 25 de maio de 1977, conta a história do jovem fazendeiro Luke Skywalker (Mark Hamill), que envolve-se numa guerra civil entre o tirano Império Galáctico e a Aliança Rebelde, ao lado do contrabandista Han Solo.",
+    "data": "18-11-1977",
+    "diretor": "George Lucas",
+    "produtor": "Gary Kurtz",
+    "personagens": ["Luke Skywalker", "Han Solo", "Leia"]
+  },
+  {
+    "id": 2,
+    "imagem": "./images/ep5.png",
+    "nome": "O império contra-ataca",
+    "numero": 5,
+    "sinopse": "Yoda treina Luke Skywalker para ser um cavaleiro Jedi. Han Solo corteja a Princesa Leia enquanto Darth Vader retorna para combater as forças rebeldes que tentam salvar a galáxia.",
+    "data": "21-07-1980",
+    "diretor": "Irvin Kershner",
+    "produtor": "Gary Kurtz",
+    "personagens": ["Luke Skywalker", "Han Solo", "Leia", "Yoda"]
+  },
+  {
+    "id": 3,
+    "imagem": "./images/ep6.png",
+    "nome": "O retorno de jedi",
+    "numero": 6,
+    "sinopse": "Luke Skywalker e seus amigos viajam para Tatooine e salvam seu amigo Han Solo do lorde do crime Jabba o Hutt. O Império Galático começou a construção de uma segunda Estrela da Morte, visando aniquilar a Aliança Rebelde, mas seu término está comprometido pela Frota Rebelde, que insiste em dar um fim ao Império. Neste meio tempo, Luke Skywalker luta para resgatar Vader, um ex-Jedi, de volta do lado sombrio da Força.",
+    "data": "06-10-1983",
+    "diretor": "Richard Marquand",
+    "produtor": "George Lucas",
+    "personagens": ["Luke Skywalker", "Han Solo", "Leia"]
+  },
+  {
+    "id": 4,
+    "imagem": "./images/ep1.png",
+    "nome": "A ameaça fantasma",
+    "numero": 1,
+    "sinopse": "Obi-Wan e seu mentor embarcam em uma perigosa aventura na tentativa de salvar o planeta das garras de Darth Sidious. Durante a viagem, eles conhecem um habilidoso menino e decidem treiná-lo para se tornar um Jedi. Mas o tempo irá revelar que as coisas nem sempre são o que aparentam ser.",
+    "data": "24-06-1999",
+    "diretor": "George Lucas",
+    "produtor": "Rick McCallum",
+    "personagens": ["Anakin Skywalker", "Obi-Wan Kenobi", "Qui-Gon Jinn"]
+  },
+  {
+    "id": 5,
+    "imagem": "./images/ep2.png",
+    "nome": "Ataque dos clones",
+    "numero": 2,
+    "sinopse": "Dez anos após o primeiro encontro, Anakin Skywalker vive um romance proibido com Padmé, enquanto Obi-Wan investiga uma tentativa de assassinato do senador e descobre um exército secreto de clones criado para tentar destruir os Jedi.",
+    "data": "01-07-2002",
+    "diretor": "George Lucas",
+    "produtor": "Rick McCallum",
+    "personagens": ["Anakin Skywalker", "Obi-Wan Kenobi", "Padmé"]
+  },
+  {
+    "id": 6,
+    "imagem": "./images/ep3.png",
+    "nome": "A vingança dos sith",
+    "numero": 3,
+    "sinopse": "As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.",
+    "data": "19-05-2005",
+    "diretor": "George Lucas",
+    "produtor": "Rick McCallum",
+    "personagens": ["Anakin Skywalker", "Obi-Wan Kenobi", "Padmé"]
+  },
+  {
+    "id": 7,
+    "imagem": "./images/ep7.png",
+    "nome": "O despertar da força",
+    "numero": 7,
+    "sinopse": "A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia..",
+    "data": "14-12-2015",
+    "diretor": "J. J. Abrams",
+    "produtor": "Kathleen Kennedy",
+    "personagens": ["Ray", "Finn", "Poe Dameron"]
+  },
+  {
+    "id": 8,
+    "imagem": "./images/rogue.png",
+    "nome": "Rogue one",
+    "numero": 10,
+    "sinopse": "A Aliança Rebelde recruta Jyn Erso para sua causa depois de saber que o Império está construindo uma arma poderosa chamada Estrela da Morte. Ela une forças com o capitão Cassian Andor e outros combatentes da resistência para roubar os planos da arma.",
+    "data": "15-12-2016",
+    "diretor": "Gareth Edwards",
+    "produtor": "Kathleen Kennedy",
+    "personagens": ["Jyn Erso", "Cassion Andor", "K-2SO"]
+  },
+  {
+    "id": 9,
+    "imagem": "./images/ep8.png",
+    "nome": "Os últimos jedi",
+    "numero": 8,
+    "sinopse": "A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.",
+    "data": "14-12-2017",
+    "diretor": "Rian Johnson",
+    "produtor": "Kathleen Kennedy",
+    "personagens": ["Ray", "Finn", "Poe Dameron", "Kylo Ren"]
+  },
+  {
+    "id": 10,
+    "imagem": "./images/solo.png",
+    "nome": "Solo",
+    "numero": 11,
+    "sinopse": "Em dificuldade financeira, o piloto Han Solo e sua namorada Qira buscam trabalho. Eles colocam as mãos em uma substância valiosa, mas perigosa, e que acaba levando à perseguição do Império e à separação entre os dois. Preocupado, Han usa toda a sua esperteza para se infiltrar em um plano arriscado, mas que pode render a oportunidade de voltar à terra natal e reencontrar a sua amada. No caminho, o piloto encontra parceiros importantes, como Chewbacca e Lando Calrissian.",
+    "data": "24-05-2018",
+    "diretor": "Ron Howard",
+    "produtor": "Kathleen Kennedy",
+    "personagens": ["Han Solo", "Beckett", "Qira"]
+  },
+  {
+    "id": 11,
+    "imagem": "./images/ep9.png",
+    "nome": "A ascensão de skywalker",
+    "numero": 9,
+    "sinopse": "Com o retorno do Imperador Palpatine, a Resistência toma a frente da batalha. Treinando para ser uma completa Jedi, Rey se encontra em conflito com passado e futuro, e teme pelas respostas que pode conseguir com Kylo Ren.",
+    "data": "19-12-2019",
+    "diretor": "J. J. Abrams",
+    "produtor": "Kathleen Kennedy",
+    "personagens": ["Ray", "Finn", "Poe Dameron", "Kylo Ren"]
+  }
+]

@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  background-image: url(./images/img-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.input-txt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+  max-width: 90%;
+}
+
+.input-txt input {
+  border: none;
+  outline: none;
+  width: 590px;
+  color: #e2b234;
+  font-size: 40px;
+  font-family: "Roboto Condensed", sans-serif;
+  border-color: white;
+  background-color: transparent;
+  height: 45px;
+}
+
+.input-txt button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.search-logo {
+  width: 22px;
+  height: 22px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.logo {
+  width: 330px;
+  height: 220px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  width: 1000px;
+  margin: 30px auto;
+}
+
+table th {
+  padding: 10px 0;
+  background-color: #ffb700;
+  border: thin solid transparent;
+  font-size: 40px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+table td {
+  padding: 10px;
+  width: 18%;
+  text-align: center;
+  background-color: #e2b13400;
+  font-size: 40px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #ffb700;
+  border-radius: 20px;
+}
+
+table img {
+  width: 70%;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .input-txt input {
+    font-size: 30px;
+  }
+
+  table {
+    width: 400px;
+    font-size: 15px;
+  }
+
+  table img {
+    width: 60%;
+    cursor: pointer;
+  }
+}

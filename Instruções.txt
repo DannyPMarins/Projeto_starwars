@@ -1,0 +1,4 @@
+Escreva na busca seu filme star wars favorito em seguida ele aparecerá listado, ao clicar na imagem os detalhas do filme é exibido e um log é enviado para o banco de dados starwarsfilmes feito com mySQL.
+
+
+Att: Daniel P Marins.
